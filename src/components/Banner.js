@@ -51,7 +51,7 @@ export const Banner = () => {
         <Row ClassName="align-intems-center">
           <Col xs={12} md={6} xl={7}>
             <span className="tagline">Welcome to my Portfolio</span>
-            <h1>{"Hello! I'm a web3 developper"}</h1>
+            <h1>{"Hello! I'm a web3 developer"}</h1>
             <p>
               I am a junior web3 developer that make website and minting smart
               contract for projects. I would be happy to work with you!

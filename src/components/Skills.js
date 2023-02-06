@@ -35,7 +35,7 @@ export const Skills = () => {
             <div className="skill-bx wow zoomIn">
               <h2>Skills</h2>
               <p>
-                I am mainely a web3 developper than is specializing on minting
+                I am mainely a web3 developer than is specializing on minting
                 dApp.<br></br>I am also a collab manager in Vulture NFT Club and
                 a Head-moderateur in Don't worry by faded
               </p>

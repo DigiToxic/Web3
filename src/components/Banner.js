@@ -53,8 +53,8 @@ export const Banner = () => {
             <span className="tagline">Welcome to my Portfolio</span>
             <h1>{"Hello! I'm a web3 developper"}</h1>
             <p>
-              I am a junior web3 developper as well as being and mod and a
-              collab manager. I would be happy to work with you!
+              I am a junior web3 developper that make website and minting smart
+              contract for projects. I would be happy to work with you!
             </p>
             <a href="https://twitter.com/messages">
               <button onClick={() => console.log("connect")} className="arrow">

@@ -4,6 +4,9 @@ import meter1 from "../assets/img/meter1.svg";
 import meter2 from "../assets/img/meter2.svg";
 import meter3 from "../assets/img/meter3.png";
 import meter4 from "../assets/img/meter4.png";
+import meter5 from "../assets/img/meter5.png";
+import meter6 from "../assets/img/meter6.png";
+import meter7 from "../assets/img/meter7.png";
 import colorSharp from "../assets/img/color-sharp.png";
 
 export const Skills = () => {
@@ -59,6 +62,18 @@ export const Skills = () => {
                 <div className="item">
                   <img src={meter3} alt="" />
                   <h5>TailwindCSS</h5>
+                </div>
+                <div className="item">
+                  <img src={meter6} alt="" />
+                  <h5>HTML</h5>
+                </div>
+                <div className="item">
+                  <img src={meter7} alt="" />
+                  <h5>CSS</h5>
+                </div>
+                <div className="item">
+                  <img src={meter5} alt="" />
+                  <h5>Javascript</h5>
                 </div>
               </Carousel>
             </div>

@@ -11,6 +11,7 @@ import etherscan from "../assets/img/etherscan.png";
 import website1 from "../assets/img/website1.png";
 import website2 from "../assets/img/website2.png";
 import website3 from "../assets/img/website3.png";
+import website4 from "../assets/img/website4.png";
 
 export const Projects = () => {
   const projects1 = [
@@ -33,9 +34,10 @@ export const Projects = () => {
       link: "https://flourishing-lebkuchen-f6d72a.netlify.app/",
     },
     {
-      title: "More project coming",
-      description: "Building",
-      imgUrl: projImg3,
+      title: "Kotaro",
+      description: "NFT Project #3",
+      imgUrl: website4,
+      link: "https://dulcet-tiramisu-18bcd1.netlify.app",
     },
     {
       title: "More project coming",
@@ -129,7 +131,9 @@ export const Projects = () => {
                 id="pills-tab"
               >
                 <Nav.Item>
-                  <Nav.Link eventKey="first" className="NavFirst">Main Project</Nav.Link>
+                  <Nav.Link eventKey="first" className="NavFirst">
+                    Main Project
+                  </Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
                   <Nav.Link eventKey="second">Smart contract deploy</Nav.Link>

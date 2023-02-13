@@ -35,9 +35,9 @@ export const Skills = () => {
             <div className="skill-bx wow zoomIn">
               <h2>Skills</h2>
               <p>
-                I am mainely a web3 developer than is specializing on minting
-                dApp.<br></br>I am also a collab manager in Vulture NFT Club and
-                a Head-moderateur in Don't worry by faded
+                I am mainely a web3 developer that is specialized on minting
+                dApp.<br></br>I can build website in react.js as well as next.js
+                and can use css and tailwind for the styling.
               </p>
               <Carousel
                 responsive={responsive}

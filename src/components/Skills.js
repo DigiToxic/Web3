@@ -38,7 +38,7 @@ export const Skills = () => {
             <div className="skill-bx wow zoomIn">
               <h2>Skills</h2>
               <p>
-                I am mainly a web3 developer that specializes in minting dApp..
+                I am mainly a web3 developer that specializes in minting dApp.
                 <br></br>I can build websites in react.js as well as next.js and
                 can use css and tailwind for the styling.
               </p>

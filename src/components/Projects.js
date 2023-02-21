@@ -12,6 +12,7 @@ import website1 from "../assets/img/website1.png";
 import website2 from "../assets/img/website2.png";
 import website3 from "../assets/img/website3.png";
 import website4 from "../assets/img/website4.png";
+import website5 from "../assets/img/website5.png";
 
 export const Projects = () => {
   const projects1 = [
@@ -40,9 +41,10 @@ export const Projects = () => {
       link: "https://dulcet-tiramisu-18bcd1.netlify.app",
     },
     {
-      title: "More project coming",
-      description: "Building",
-      imgUrl: projImg3,
+      title: "Snug Pass",
+      description: "Minting interface + smart contract connection",
+      imgUrl: website5,
+      link: "https://snugpass.club/",
     },
     {
       title: "More project coming",

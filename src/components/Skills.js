@@ -7,6 +7,7 @@ import meter4 from "../assets/img/meter4.png";
 import meter5 from "../assets/img/meter5.png";
 import meter6 from "../assets/img/meter6.png";
 import meter7 from "../assets/img/meter7.png";
+import meter8 from "../assets/img/meter8.png";
 import colorSharp from "../assets/img/color-sharp.png";
 
 export const Skills = () => {
@@ -73,7 +74,11 @@ export const Skills = () => {
                 </div>
                 <div className="item">
                   <img src={meter5} alt="" />
-                  <h5>Javascript</h5>
+                  <h5>JavaScript</h5>
+                </div>
+                <div className="item">
+                  <img src={meter8} alt="" />
+                  <h5>TypeScript</h5>
                 </div>
               </Carousel>
             </div>

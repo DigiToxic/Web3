@@ -12,7 +12,7 @@ import website1 from "../assets/img/website1.png";
 import website2 from "../assets/img/website2.png";
 import website3 from "../assets/img/website3.png";
 import website4 from "../assets/img/website4.png";
-import website5 from "../assets/img/website5.png";
+import website5 from "../assets/img/website5.PNG";
 
 export const Projects = () => {
   const projects1 = [

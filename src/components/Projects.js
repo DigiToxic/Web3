@@ -13,6 +13,7 @@ import website2 from "../assets/img/website2.png";
 import website3 from "../assets/img/website3.png";
 import website4 from "../assets/img/website4.png";
 import website5 from "../assets/img/website5.PNG";
+import website6 from "../assets/img/website6.PNG";
 
 export const Projects = () => {
   const projects1 = [
@@ -47,9 +48,10 @@ export const Projects = () => {
       link: "https://snugpass.club/",
     },
     {
-      title: "More project coming",
-      description: "Building",
-      imgUrl: projImg3,
+      title: "Lethal Lizards",
+      description: "NFT Project #4",
+      imgUrl: website6,
+      link: "https://lethallizards.com/",
     },
   ];
 

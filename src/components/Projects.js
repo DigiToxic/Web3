@@ -48,10 +48,9 @@ export const Projects = () => {
       link: "https://snugpass.club/",
     },
     {
-      title: "Lethal Lizards",
-      description: "NFT Project #4",
-      imgUrl: website6,
-      link: "https://lethallizards.com/",
+      title: "More project coming",
+      description: "Building",
+      imgUrl: projImg3,
     },
   ];
 

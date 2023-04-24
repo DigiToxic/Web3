@@ -48,9 +48,10 @@ export const Projects = () => {
       link: "https://snugpass.club/",
     },
     {
-      title: "More project coming",
-      description: "Building",
-      imgUrl: projImg3,
+      title: "Lethal Lizards",
+      description: "NFT Project #4",
+      imgUrl: website6,
+      link: "https://lethallizards.com/",
     },
   ];
 
@@ -62,9 +63,10 @@ export const Projects = () => {
       link: "https://etherscan.io/address/0x6f5e46abfc5c4bd49c4c2cfec15bfc79c84e1d6a",
     },
     {
-      title: "More project coming",
-      description: "Building",
-      imgUrl: projImg3,
+      title: "Lethal Lizards smart contract",
+      description: "Mainnet",
+      imgUrl: etherscan,
+      link: "https://etherscan.io/address/0xB242C020df9d62D9d5D1d74c72750B7CAbA33B19",
     },
     {
       title: "More project coming",

@@ -14,6 +14,8 @@ import website3 from "../assets/img/website3.png";
 import website4 from "../assets/img/website4.png";
 import website5 from "../assets/img/website5.PNG";
 import website6 from "../assets/img/website6.PNG";
+import website7 from "../assets/img/website7.PNG";
+import website8 from "../assets/img/website8.PNG";
 
 export const Projects = () => {
   const projects1 = [
@@ -52,6 +54,18 @@ export const Projects = () => {
       description: "NFT Project #4",
       imgUrl: website6,
       link: "https://lethallizards.com/",
+    },
+    {
+      title: "We are exhausted",
+      description: "NFT Project #5",
+      imgUrl: website7,
+      link: "https://www.exhaustednft.io/",
+    },
+    {
+      title: "Casper Agency",
+      description: "Agency request",
+      imgUrl: website8,
+      link: "https://caspers-labs.vercel.app/",
     },
   ];
 

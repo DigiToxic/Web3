@@ -16,6 +16,8 @@ import website5 from "../assets/img/website5.PNG";
 import website6 from "../assets/img/website6.PNG";
 import website7 from "../assets/img/website7.PNG";
 import website8 from "../assets/img/website8.PNG";
+import website9 from "../assets/img/website9.PNG";
+import website10 from "../assets/img/Website10.PNG";
 
 export const Projects = () => {
   const projects1 = [
@@ -66,6 +68,18 @@ export const Projects = () => {
       description: "Agency request",
       imgUrl: website8,
       link: "https://caspers-labs.vercel.app/",
+    },
+    {
+      title: "DeVinci",
+      description: "My own Dev Agency",
+      imgUrl: website9,
+      link: "https://devinci.vercel.app/",
+    },
+    {
+      title: "Gulo",
+      description: "NFT Project #6",
+      imgUrl: website10,
+      link: "https://gulo-psi.vercel.app/",
     },
   ];
 

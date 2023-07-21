@@ -85,7 +85,7 @@ export const Projects = () => {
     {
       title: "W3bster",
       description: "Agency request",
-      imgUrl: website10,
+      imgUrl: website11,
       link: "https://www.w3bster.io/",
     },
   ];

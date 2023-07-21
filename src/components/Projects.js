@@ -18,6 +18,7 @@ import website7 from "../assets/img/website7.PNG";
 import website8 from "../assets/img/website8.PNG";
 import website9 from "../assets/img/website9.PNG";
 import website10 from "../assets/img/Website10.PNG";
+import website11 from "../assets/img/Website11.PNG";
 
 export const Projects = () => {
   const projects1 = [
@@ -80,6 +81,12 @@ export const Projects = () => {
       description: "NFT Project #6",
       imgUrl: website10,
       link: "https://gulo-psi.vercel.app/",
+    },
+    {
+      title: "W3bster",
+      description: "Agency request",
+      imgUrl: website10,
+      link: "https://www.w3bster.io/",
     },
   ];
 

@@ -7,6 +7,7 @@ import projImg5 from "../assets/img/project-img5.png";
 import projImg6 from "../assets/img/project-img6.png";
 import projImg7 from "../assets/img/project-img7.png";
 import projImg8 from "../assets/img/project-img8.png";
+import projImg9 from "../assets/img/project-img9.png";
 import etherscan from "../assets/img/etherscan.png";
 import website1 from "../assets/img/website1.png";
 import website2 from "../assets/img/website2.png";
@@ -92,16 +93,16 @@ export const Projects = () => {
 
   const projects2 = [
     {
-      title: "Kraken smart contract",
-      description: "Mainnet",
+      title: "More project coming",
+      description: "Building",
       imgUrl: etherscan,
-      link: "https://etherscan.io/address/0x6f5e46abfc5c4bd49c4c2cfec15bfc79c84e1d6a",
+      imgUrl: projImg3,
     },
     {
-      title: "Lethal Lizards smart contract",
-      description: "Mainnet",
+      title: "More project coming",
+      description: "Building",
       imgUrl: etherscan,
-      link: "https://etherscan.io/address/0xB242C020df9d62D9d5D1d74c72750B7CAbA33B19",
+      imgUrl: projImg3,
     },
     {
       title: "More project coming",
@@ -152,9 +153,9 @@ export const Projects = () => {
       imgUrl: projImg8,
     },
     {
-      title: "More project coming",
-      description: "Building",
-      imgUrl: projImg3,
+      title: "ERC-20 + taxes",
+      description: "ERC-20",
+      imgUrl: projImg9,
     },
   ];
 
@@ -176,7 +177,7 @@ export const Projects = () => {
                   </Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
-                  <Nav.Link eventKey="second">Smart contract deploy</Nav.Link>
+                  <Nav.Link eventKey="second">dApp</Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
                   <Nav.Link eventKey="third">Smart contract</Nav.Link>

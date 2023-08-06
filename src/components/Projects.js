@@ -20,6 +20,7 @@ import website8 from "../assets/img/website8.PNG";
 import website9 from "../assets/img/website9.PNG";
 import website10 from "../assets/img/Website10.PNG";
 import website11 from "../assets/img/Website11.PNG";
+import website12 from "../assets/img/Website12.PNG";
 
 export const Projects = () => {
   const projects1 = [
@@ -88,6 +89,12 @@ export const Projects = () => {
       description: "Agency request",
       imgUrl: website11,
       link: "https://www.w3bster.io/",
+    },
+    {
+      title: "NFT gated",
+      description: "Website gated by a nft",
+      imgUrl: website12,
+      link: "https://nft-gated-showcase.vercel.app/",
     },
   ];
 

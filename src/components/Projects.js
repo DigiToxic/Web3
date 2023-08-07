@@ -102,13 +102,11 @@ export const Projects = () => {
     {
       title: "More project coming",
       description: "Building",
-      imgUrl: etherscan,
       imgUrl: projImg3,
     },
     {
       title: "More project coming",
       description: "Building",
-      imgUrl: etherscan,
       imgUrl: projImg3,
     },
     {

@@ -20,7 +20,7 @@ import website8 from "../assets/img/website8.PNG";
 import website9 from "../assets/img/website9.PNG";
 import website10 from "../assets/img/Website10.PNG";
 import website11 from "../assets/img/Website11.PNG";
-import website12 from "../assets/img/Website12.PNG";
+import website12 from "../assets/img/website12.PNG";
 
 export const Projects = () => {
   const projects1 = [

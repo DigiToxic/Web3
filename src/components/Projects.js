@@ -8,7 +8,6 @@ import projImg6 from "../assets/img/project-img6.png";
 import projImg7 from "../assets/img/project-img7.png";
 import projImg8 from "../assets/img/project-img8.png";
 import projImg9 from "../assets/img/project-img9.png";
-import etherscan from "../assets/img/etherscan.png";
 import website1 from "../assets/img/website1.png";
 import website2 from "../assets/img/website2.png";
 import website3 from "../assets/img/website3.png";

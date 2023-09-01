@@ -20,6 +20,9 @@ import website9 from "../assets/img/website9.PNG";
 import website10 from "../assets/img/Website10.PNG";
 import website11 from "../assets/img/Website11.PNG";
 import website12 from "../assets/img/website12.PNG";
+import website13 from "../assets/img/website13.PNG";
+import website14 from "../assets/img/website14.PNG";
+import website15 from "../assets/img/website15.PNG";
 
 export const Projects = () => {
   const projects1 = [
@@ -89,34 +92,32 @@ export const Projects = () => {
       imgUrl: website11,
       link: "https://www.w3bster.io/",
     },
+  ];
+
+  const projects2 = [
     {
       title: "NFT gated",
       description: "Website gated by a nft",
       imgUrl: website12,
       link: "https://nft-gated-showcase.vercel.app/",
     },
-  ];
-
-  const projects2 = [
     {
-      title: "More project coming",
-      description: "Building",
-      imgUrl: projImg3,
+      title: "Early token analytic",
+      description: "Analysing shitcoin token",
+      imgUrl: website13,
+      link: "https://www.kharks.io/",
     },
     {
-      title: "More project coming",
-      description: "Building",
-      imgUrl: projImg3,
+      title: "Website similitude checker",
+      description: "Comparing two website design/structure with their url link",
+      imgUrl: website14,
+      link: "https://design-checker.vercel.app/",
     },
     {
-      title: "More project coming",
-      description: "Building",
-      imgUrl: projImg3,
-    },
-    {
-      title: "More project coming",
-      description: "Building",
-      imgUrl: projImg3,
+      title: "Website authenticator",
+      description: "Very small twitter clone with metamask auth",
+      imgUrl: website15,
+      link: "https://metamask-authentification.vercel.app/",
     },
     {
       title: "More project coming",
@@ -177,11 +178,11 @@ export const Projects = () => {
               >
                 <Nav.Item>
                   <Nav.Link eventKey="first" className="NavFirst">
-                    Main Project
+                    Request
                   </Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
-                  <Nav.Link eventKey="second">dApp</Nav.Link>
+                  <Nav.Link eventKey="second">Own project</Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
                   <Nav.Link eventKey="third">Smart contract</Nav.Link>
@@ -189,7 +190,7 @@ export const Projects = () => {
               </Nav>
               <Tab.Content>
                 <Tab.Pane eventKey="first">
-                  <p>This section shows all the projects I have done myself</p>
+                  <p>This section shows all the projects I have done</p>
                   <Row>
                     {projects1.map((project, index) => {
                       return <ProjectCard1 key={index} {...project} />;
@@ -197,9 +198,7 @@ export const Projects = () => {
                   </Row>
                 </Tab.Pane>
                 <Tab.Pane eventKey="second">
-                  <p>
-                    This section shows all the smart contract linked to projects
-                  </p>
+                  <p>This section shows all projects I have done for myself</p>
                   <Row>
                     {projects2.map((project, index) => {
                       return <ProjectCard2 key={index} {...project} />;

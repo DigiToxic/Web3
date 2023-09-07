@@ -23,6 +23,7 @@ import website12 from "../assets/img/website12.PNG";
 import website13 from "../assets/img/website13.PNG";
 import website14 from "../assets/img/website14.PNG";
 import website15 from "../assets/img/website15.PNG";
+import website16 from "../assets/img/website16.PNG";
 
 export const Projects = () => {
   const projects1 = [
@@ -120,9 +121,10 @@ export const Projects = () => {
       link: "https://metamask-authentification.vercel.app/",
     },
     {
-      title: "More project coming",
-      description: "Building",
-      imgUrl: projImg3,
+      title: "Web Game",
+      description: "Space Invader like game",
+      imgUrl: website16,
+      link: "https://web-space-game.vercel.app/",
     },
     {
       title: "More project coming",

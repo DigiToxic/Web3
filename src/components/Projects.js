@@ -24,6 +24,7 @@ import website13 from "../assets/img/website13.PNG";
 import website14 from "../assets/img/website14.PNG";
 import website15 from "../assets/img/website15.PNG";
 import website16 from "../assets/img/website16.PNG";
+import website17 from "../assets/img/website17.PNG";
 
 export const Projects = () => {
   const projects1 = [
@@ -92,6 +93,12 @@ export const Projects = () => {
       description: "Agency request",
       imgUrl: website11,
       link: "https://www.w3bster.io/",
+    },
+    {
+      title: "DeVinci-AI",
+      description: "My own AI Agency",
+      imgUrl: website17,
+      link: "https://devinci-ai.vercel.app/",
     },
   ];
 

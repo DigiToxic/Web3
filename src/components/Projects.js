@@ -187,11 +187,11 @@ export const Projects = () => {
               >
                 <Nav.Item>
                   <Nav.Link eventKey="first" className="NavFirst">
-                    Request
+                    Website request
                   </Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
-                  <Nav.Link eventKey="second">Own project</Nav.Link>
+                  <Nav.Link eventKey="second">Projects request</Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
                   <Nav.Link eventKey="third">Smart contract</Nav.Link>
@@ -199,7 +199,9 @@ export const Projects = () => {
               </Nav>
               <Tab.Content>
                 <Tab.Pane eventKey="first">
-                  <p>This section shows all the projects I have done</p>
+                  <p>
+                    This section showcases all the websites I have developed!
+                  </p>
                   <Row>
                     {projects1.map((project, index) => {
                       return <ProjectCard1 key={index} {...project} />;
@@ -207,7 +209,10 @@ export const Projects = () => {
                   </Row>
                 </Tab.Pane>
                 <Tab.Pane eventKey="second">
-                  <p>This section shows all projects I have done for myself</p>
+                  <p>
+                    This section showcases all the tools and bots I have
+                    developed!
+                  </p>
                   <Row>
                     {projects2.map((project, index) => {
                       return <ProjectCard2 key={index} {...project} />;
@@ -216,8 +221,8 @@ export const Projects = () => {
                 </Tab.Pane>
                 <Tab.Pane eventKey="third">
                   <p>
-                    This section shows all the type of smart contract I have
-                    already done
+                    This section showcases all the types of smart contracts I
+                    have already developed.
                   </p>
                   <Row>
                     {projects3.map((project, index) => {

@@ -8,6 +8,11 @@ import meter5 from "../assets/img/meter5.png";
 import meter6 from "../assets/img/meter6.png";
 import meter7 from "../assets/img/meter7.png";
 import meter8 from "../assets/img/meter8.png";
+import meter9 from "../assets/img/meter9.png";
+import meter10 from "../assets/img/meter10.png";
+import meter11 from "../assets/img/meter11.png";
+import meter12 from "../assets/img/meter12.png";
+import meter13 from "../assets/img/meter13.svg";
 import colorSharp from "../assets/img/color-sharp.png";
 
 export const Skills = () => {
@@ -39,9 +44,9 @@ export const Skills = () => {
             <div className="skill-bx wow zoomIn">
               <h2>Skills</h2>
               <p>
-                I am mainly a web3 developer that specializes in minting dApp.
-                <br></br>I can build websites in react.js as well as next.js and
-                can use css and tailwind for the styling.
+                As a full-stack developer, I can handle everything related to
+                front-end and back-end with the tools listed below.<br /> Feel free to
+                take a look!
               </p>
               <Carousel
                 responsive={responsive}
@@ -79,6 +84,26 @@ export const Skills = () => {
                 <div className="item">
                   <img src={meter8} alt="" />
                   <h5>TypeScript</h5>
+                </div>
+                <div className="item">
+                  <img src={meter11} alt="" />
+                  <h5>Python</h5>
+                </div>
+                <div className="item">
+                  <img src={meter9} alt="" />
+                  <h5>Open AI api</h5>
+                </div>
+                <div className="item">
+                  <img src={meter10} alt="" />
+                  <h5>Voiceflow</h5>
+                </div>
+                <div className="item">
+                  <img src={meter12} alt="" />
+                  <h5>Go High Level</h5>
+                </div>
+                <div className="item">
+                  <img src={meter13} alt="" />
+                  <h5>Twilio api</h5>
                 </div>
               </Carousel>
             </div>

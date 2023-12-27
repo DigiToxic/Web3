@@ -51,10 +51,11 @@ export const Banner = () => {
         <Row ClassName="align-intems-center">
           <Col xs={12} md={6} xl={7}>
             <span className="tagline">Welcome to my Portfolio</span>
-            <h1>{"Hello! I'm a web3 developer"}</h1>
+            <h1>{"Hello! I'm a full-stack developer"}</h1>
             <p>
-              I am a web3 developer that makes websites and mints smart
-              contracts for projects. I would be happy to work with you!
+              I am a full-stack developer that makes your dreams come
+              true. I would be happy to listen to your wishes and make them come
+              to life!"
             </p>
             <a href="https://twitter.com/messages">
               <button onClick={() => console.log("connect")} className="arrow">

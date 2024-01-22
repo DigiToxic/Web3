@@ -25,6 +25,8 @@ import website14 from "../assets/img/website14.PNG";
 import website15 from "../assets/img/website15.PNG";
 import website16 from "../assets/img/website16.PNG";
 import website17 from "../assets/img/website17.PNG";
+import website18 from "../assets/img/website18.PNG";
+import website19 from "../assets/img/website19.PNG";
 
 export const Projects = () => {
   const projects1 = [
@@ -100,6 +102,12 @@ export const Projects = () => {
       imgUrl: website17,
       link: "https://devinci-ai.vercel.app/",
     },
+    {
+      title: "Crutox",
+      description: "Website for their mobile app",
+      imgUrl: website18,
+      link: "https://crutox.com/",
+    },
   ];
 
   const projects2 = [
@@ -134,9 +142,9 @@ export const Projects = () => {
       link: "https://web-space-game.vercel.app/",
     },
     {
-      title: "More project coming",
-      description: "Building",
-      imgUrl: projImg3,
+      title: "Layered Image Generator",
+      description: "NFT image generator",
+      imgUrl: website19,
     },
   ];
 

@@ -13,7 +13,7 @@ import meter10 from "../assets/img/meter10.png";
 import meter11 from "../assets/img/meter11.png";
 import meter12 from "../assets/img/meter12.png";
 import meter13 from "../assets/img/meter13.svg";
-import meter14 from "../assets/img/meter14.svg";
+import meter14 from "../assets/img/meter14.png";
 import colorSharp from "../assets/img/color-sharp.png";
 
 export const Skills = () => {

@@ -142,8 +142,8 @@ export const Projects = () => {
       link: "https://web-space-game.vercel.app/",
     },
     {
-      title: "Layered Image Generator",
-      description: "NFT image generator",
+      title: "Telegram bot",
+      description: "I made multiple tools for telegram bot",
       imgUrl: website19,
     },
   ];

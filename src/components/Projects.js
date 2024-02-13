@@ -11,7 +11,6 @@ import website1 from "../assets/img/website1.png";
 import website2 from "../assets/img/website2.png";
 import website3 from "../assets/img/website3.png";
 import website4 from "../assets/img/website4.png";
-import website5 from "../assets/img/website5.PNG";
 import website6 from "../assets/img/website6.PNG";
 import website7 from "../assets/img/website7.PNG";
 import website8 from "../assets/img/website8.PNG";
@@ -30,34 +29,28 @@ import website19 from "../assets/img/website20.png";
 export const Projects = () => {
   const projects1 = [
     {
-      title: "The Krakenz",
-      description: "NFT Project #1",
+      title: "GHL landing page",
+      description: "KingsWood",
       imgUrl: website1,
-      link: "https://thekrakenz.com/",
+      link: "https://kingswoodwillsfpl.co.uk/",
     },
     {
-      title: "Don't worry by faded",
-      description: "NFT Project #2",
+      title: "GHL landing page",
+      description: "Lanai outdoor",
       imgUrl: website2,
-      link: "https://itsfaded.com/",
+      link: "https://app.gohighlevel.com/v2/preview/SJmQKbhB0Mk7bWy9eKBj?notrack=true",
     },
     {
-      title: "The Coliseum",
-      description: "Prototype website",
-      imgUrl: website3,
-      link: "https://flourishing-lebkuchen-f6d72a.netlify.app/",
-    },
-    {
-      title: "Kotaro",
-      description: "NFT Project #3",
+      title: "GHL landing page",
+      description: "Business energy claims",
       imgUrl: website4,
-      link: "https://dulcet-tiramisu-18bcd1.netlify.app",
+      link: "https://app.gohighlevel.com/v2/preview/fTdLF3wzsBqZXFrabesO",
     },
     {
-      title: "Snug Pass",
-      description: "Minting interface + smart contract connection",
-      imgUrl: website5,
-      link: "https://snugpass.club/",
+      title: "Design Dynasty",
+      description: "Agency request",
+      imgUrl: website3,
+      link: "https://art-psi-nine.vercel.app/",
     },
     {
       title: "Lethal Lizards",

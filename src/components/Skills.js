@@ -14,6 +14,7 @@ import meter11 from "../assets/img/meter11.png";
 import meter12 from "../assets/img/meter12.png";
 import meter13 from "../assets/img/meter13.svg";
 import meter14 from "../assets/img/meter14.png";
+import meter15 from "../assets/img/meter15.png";
 import colorSharp from "../assets/img/color-sharp.png";
 
 export const Skills = () => {
@@ -105,6 +106,10 @@ export const Skills = () => {
                 <div className="item">
                   <img src={meter13} alt="" />
                   <h5>Twilio api</h5>
+                </div>
+                <div className="item">
+                  <img src={meter15} alt="" />
+                  <h5>Zapier automation</h5>
                 </div>
                 <div className="item">
                   <img src={meter14} alt="" />

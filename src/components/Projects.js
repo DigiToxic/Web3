@@ -24,8 +24,8 @@ import website14 from "../assets/img/website14.PNG";
 import website15 from "../assets/img/website15.PNG";
 import website16 from "../assets/img/website16.PNG";
 import website17 from "../assets/img/website17.PNG";
-import website18 from "../assets/img/website18.png";
-import website19 from "../assets/img/website19.png";
+import website18 from "../assets/img/website21.png";
+import website19 from "../assets/img/website20.png";
 
 export const Projects = () => {
   const projects1 = [

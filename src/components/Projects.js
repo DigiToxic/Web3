@@ -1,7 +1,6 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard1, ProjectCard2 } from "./ProjectCard";
 import colorSharp2 from "../assets/img/color-sharp2.png";
-import projImg3 from "../assets/img/project-img3.png";
 import projImg4 from "../assets/img/project-img4.png";
 import projImg5 from "../assets/img/project-img5.png";
 import projImg6 from "../assets/img/project-img6.png";
@@ -25,8 +24,8 @@ import website14 from "../assets/img/website14.PNG";
 import website15 from "../assets/img/website15.PNG";
 import website16 from "../assets/img/website16.PNG";
 import website17 from "../assets/img/website17.PNG";
-import website18 from "../assets/img/website18.PNG";
-import website19 from "../assets/img/website19.PNG";
+import website18 from "../assets/img/website18.png";
+import website19 from "../assets/img/website19.png";
 
 export const Projects = () => {
   const projects1 = [

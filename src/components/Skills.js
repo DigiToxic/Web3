@@ -15,6 +15,8 @@ import meter12 from "../assets/img/meter12.png";
 import meter13 from "../assets/img/meter13.svg";
 import meter14 from "../assets/img/meter14.png";
 import meter15 from "../assets/img/meter15.png";
+import meter16 from "../assets/img/meter16.png";
+import meter17 from "../assets/img/meter17.png";
 import colorSharp from "../assets/img/color-sharp.png";
 
 export const Skills = () => {
@@ -114,6 +116,14 @@ export const Skills = () => {
                 <div className="item">
                   <img src={meter14} alt="" />
                   <h5>Image generating</h5>
+                </div>
+                <div className="item">
+                  <img src={meter16} alt="" />
+                  <h5>Make.com automation</h5>
+                </div>
+                <div className="item">
+                  <img src={meter17} alt="" />
+                  <h5>Flutterflow</h5>
                 </div>
               </Carousel>
             </div>

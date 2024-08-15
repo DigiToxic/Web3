@@ -11,8 +11,6 @@ import website1 from "../assets/img/website1.png";
 import website2 from "../assets/img/website2.png";
 import website3 from "../assets/img/website3.png";
 import website4 from "../assets/img/website4.png";
-import website6 from "../assets/img/website6.PNG";
-import website7 from "../assets/img/website7.PNG";
 import website8 from "../assets/img/website8.PNG";
 import website9 from "../assets/img/website9.PNG";
 import website10 from "../assets/img/Website10.PNG";
@@ -53,18 +51,6 @@ export const Projects = () => {
       link: "https://art-psi-nine.vercel.app/",
     },
     {
-      title: "Lethal Lizards",
-      description: "NFT Project #4",
-      imgUrl: website6,
-      link: "https://lethallizards.com/",
-    },
-    {
-      title: "We are exhausted",
-      description: "NFT Project #5",
-      imgUrl: website7,
-      link: "https://www.exhaustednft.io/",
-    },
-    {
       title: "Casper Agency",
       description: "Agency request",
       imgUrl: website8,
@@ -86,7 +72,7 @@ export const Projects = () => {
       title: "W3bster",
       description: "Agency request",
       imgUrl: website11,
-      link: "https://www.w3bster.io/",
+      link: "https://w3bster.vercel.app/",
     },
     {
       title: "DeVinci-AI",

@@ -67,14 +67,14 @@ export const NavBar = () => {
           </Nav>
           <span className="navbar-text">
             <div className="social-icon">
-              <a href="https://twitter.com/Digi_Toxic">
+              <a href="">
                 <img src={navIcon1} alt="" />
               </a>
-              <a href="https://github.com/DigiToxic">
+              <a href="">
                 <img src={navIcon2} alt="" />
               </a>
             </div>
-            <a href="https://twitter.com/messages">
+            <a href="">
               <button className="vvd">
                 <span>Let’s Connect</span>
               </button>

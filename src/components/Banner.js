@@ -57,7 +57,7 @@ export const Banner = () => {
               true. I would be happy to listen to your wishes and make them come
               to life!"
             </p>
-            <a href="https://twitter.com/messages">
+            <a href="s">
               <button onClick={() => console.log("connect")} className="arrow">
                 Let's connect <ArrowRightCircle size={25} />
               </button>

@@ -17,7 +17,6 @@ import meter14 from "../assets/img/meter14.png";
 import meter15 from "../assets/img/meter15.png";
 import meter16 from "../assets/img/meter16.png";
 import meter17 from "../assets/img/meter17.png";
-import meter18 from "../assets/img/meter18.png";
 import colorSharp from "../assets/img/color-sharp.png";
 
 export const Skills = () => {
@@ -58,10 +57,6 @@ export const Skills = () => {
                 infinite={true}
                 className="owl-carousel owl-theme skill-slider"
               >
-                <div className="item">
-                  <img src={meter1} alt="" />
-                  <h5>Solidity</h5>
-                </div>
                 <div className="item">
                   <img src={meter2} alt="" />
                   <h5>React.js</h5>
@@ -115,20 +110,12 @@ export const Skills = () => {
                   <h5>Zapier automation</h5>
                 </div>
                 <div className="item">
-                  <img src={meter14} alt="" />
-                  <h5>Image generating</h5>
-                </div>
-                <div className="item">
                   <img src={meter16} alt="" />
                   <h5>Make.com automation</h5>
                 </div>
                 <div className="item">
                   <img src={meter17} alt="" />
                   <h5>Flutterflow</h5>
-                </div>
-                <div className="item">
-                  <img src={meter18} alt="" />
-                  <h5>Telegram Bot</h5>
                 </div>
               </Carousel>
             </div>
